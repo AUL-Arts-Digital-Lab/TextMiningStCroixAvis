@@ -23,7 +23,6 @@ https://www.r-project.org/
 ```{r, message=FALSE}
 library(tidyverse)
 library(tidytext)
-library(lubridate)
 library(ggwordcloud)
 ```
 
